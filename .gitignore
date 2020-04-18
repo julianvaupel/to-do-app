@@ -1,0 +1,2 @@
+# put files or file-patterns that shall be ignored, like .env files
+.env
