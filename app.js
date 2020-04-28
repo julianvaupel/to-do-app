@@ -1,4 +1,4 @@
 // This is the start of the to do app
-require('dotenv').config()
+require('dotenv').config();
 
-console.log(process.env.APIKEY_STH)
+console.log(process.env.APIKEY_STH);
